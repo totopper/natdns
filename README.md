@@ -8,3 +8,6 @@ what NatDNS can do for you?
 2. keep your DNS server from DDOS attack.
 3. maintain ip blacklist for your service
 4. for DNS server, you can set domain whitelist for you server
+5. 
+
+you can get the code or module via email isyes@foxmail.com
